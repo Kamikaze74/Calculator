@@ -1,0 +1,6 @@
+.vscode
+doc
+bin
+Makefile
+test
+Doxyfile
